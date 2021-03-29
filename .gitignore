@@ -2,3 +2,7 @@
 .vscode
 __pycache__
 text8
+summer2winter_yosemite
+cycle-gan/__MACOSX/._summer2winter_yosemite
+gan-mnist/data/
+data/
